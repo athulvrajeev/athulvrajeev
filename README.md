@@ -20,4 +20,4 @@ Currently, I am expanding my skills in Python and computational data analysis an
 ## 📫 Connect with Me
 
 - LinkedIn: [Athul V Rajeev](https://www.linkedin.com/in/athul-vidya-rajeev-801820223)
-- Email: athulvrajeev@gmail.com
+- Email: bm21resch01002@iith.ac.in, athulvrajeev@gmail.com
